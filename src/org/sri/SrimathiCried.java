@@ -7,6 +7,7 @@ public class SrimathiCried {
 		String concat = s1.concat(s2);
 		System.out.println(concat.substring(s1.length()));
 		System.out.println(concat.substring(0, s1.length()));
+		System.out.println("srimathi now okay");
 	}
 
 }
